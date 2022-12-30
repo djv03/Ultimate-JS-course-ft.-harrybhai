@@ -1,0 +1,26 @@
+
+.bg-black{
+    background-color: black;  
+
+}
+.bg-light{
+    background-color: antiquewhite;
+}
+.textblack{
+    color: black;
+}
+.textwhite{
+    color: white;
+}
+
+.navbar ul li{
+    padding: 13px;
+    margin: 13px;
+    border: 2px solid pink;
+}
+
+.font-bold{
+    font-size: 23px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
